@@ -1,12 +1,4 @@
-#### Tutorial Video
-
-(React Tutorial)[https://youtu.be/iZhV0bILFb0]
-
-#### All Projects
-
-[Projects Site](https://react-projects.netlify.app/)
-
-## Corresponding Tutorial Topics
+## Basic Projects
 
 #### useState
 
@@ -45,9 +37,6 @@
 15. Cocktails
 
 ## Advanced Projects
-
-Course Exclusive
-[Course Link](https://www.udemy.com/course/react-tutorial-and-projects-course/?couponCode=REACT-OCT)
 
 16. Markdown Preview
 17. Random Person
