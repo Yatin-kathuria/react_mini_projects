@@ -38,8 +38,6 @@
 
 ## Advanced Projects
 
-Course Exclusive
-
 16. Markdown Preview
 17. Random Person
 18. Pagination
